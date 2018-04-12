@@ -1,5 +1,5 @@
 # hello_world
-# Juan Corona
+# Juan Corona, Jerry Ly
 
 Created by: Juan Corona
 April 12, 2018
